@@ -1,4 +1,7 @@
-# Esse é apenas um projeto para aprender a criar projetos em React para iniciantes, irei utiliza-lo para realizar um projeto que um amigo meu tem: um site com informações sobre Doramas e Filmes Coreanos.
+
+# Informações sobre o Projeto
+
+Esse é apenas um projeto para aprender a criar projetos em React para iniciantes, irei utiliza-lo para realizar um projeto que um amigo meu tem: um site com informações sobre Doramas e Filmes Coreanos.
 
 # Getting Started with Create React App
 
